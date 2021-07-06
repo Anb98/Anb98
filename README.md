@@ -1,11 +1,10 @@
-<p><img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&branding=false&username=anb98&style=--bg-color:%230D1117;--badge-bg-color:%23161B22;--badge-text-color:%23C9D1D9" alt="anb98" /></p>
-<br />
 <h1 align="center">Hi 👋, I'm Abdiel Martinez</h1>
 <h3 align="center">A Full Stack developer from El Salvador</h3>
 
 - 🌱 I’m currently learning **Functional programming**
 
 - 📝 I write articles some on [abdiel.dev](https://abdiel.dev)
+
 
 <h3 align="left">👥 Connect with me:</h3>
 <p align="left">
