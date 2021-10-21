@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abdiel Martinez</h1>
-<h3 align="center">A Full Stack developer from El Salvador</h3>
+<h3 align="center">A Fullstack developer from El Salvador</h3>
 
-- 🌱 I’m currently learning **Functional programming**
+- 🌱 I’m currently learning **Functional programming** and **AWS services**
 
-- 📝 I write articles some on [abdiel.dev](https://abdiel.dev)
+- 📝 I write some articles on [abdiel.dev](https://abdiel.dev)
+
+<h3>📜 Certifications</h3>
+<a href="https://www.credly.com/badges/75708b07-8e9d-46fb-a604-2d8d7c2e1e05/public_url"><img src="https://images.credly.com/size/110x110/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png"/></a>
 
 
 <h3 align="left">👥 Connect with me:</h3>
