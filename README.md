@@ -17,7 +17,7 @@ Most of my side projects are tools I built because my own setup needed them:
 - [`esp32-ai-monitor`](https://github.com/Anb98/esp32-ai-monitor) — ESP32-S3 ambient display for Claude Code quota usage, with a Go backend
 - [`epd-wrapper`](https://github.com/Anb98/epd-wrapper) — TypeScript wrapper for a Python e-paper display driver
 
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Forgejo](https://img.shields.io/badge/forgejo-%23FB923C.svg?style=for-the-badge&logo=forgejo&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Jellyfin](https://img.shields.io/badge/Jellyfin-%2300A4DC.svg?style=for-the-badge&logo=jellyfin&logoColor=white) ![Immich](https://img.shields.io/badge/Immich-%234250AF.svg?style=for-the-badge&logo=immich&logoColor=white) ![Pi-hole](https://img.shields.io/badge/Pi--hole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Nginx Proxy Manager](https://img.shields.io/badge/Nginx_Proxy_Manager-%23F15833.svg?style=for-the-badge&logo=nginxproxymanager&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-%23242424.svg?style=for-the-badge&logo=tailscale&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ## 📜 Certifications
 
