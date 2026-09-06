@@ -10,6 +10,8 @@
 Most of my side projects are tools I built because my own setup needed them:
 
 - [`beszel-cli`](https://github.com/Anb98/beszel-cli) — CLI client for Beszel server monitoring
+- [`bookmarks`](https://github.com/Anb98/bookmarks) — self-hosted bookmark manager in a single 12 MB static binary, tag search included
+- [`speakr-gemini-proxy`](https://github.com/Anb98/speakr-gemini-proxy) — Gemini as Speakr's transcription backend, with speaker diarization, in a ~15 MB container
 - [`n8n-workflows`](https://github.com/Anb98/n8n-workflows) — the automation workflows I actually run
 - [`ephemeral-file-server`](https://github.com/Anb98/ephemeral-file-server) — self-hosted image sharing where each upload is deleted after its first view
 - [`esp32-ai-monitor`](https://github.com/Anb98/esp32-ai-monitor) — ESP32-S3 ambient display for Claude Code quota usage, with a Go backend
