@@ -19,6 +19,9 @@ Most of my side projects are tools I built because my own setup needed them:
 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Jellyfin](https://img.shields.io/badge/Jellyfin-%2300A4DC.svg?style=for-the-badge&logo=jellyfin&logoColor=white) ![Immich](https://img.shields.io/badge/Immich-%234250AF.svg?style=for-the-badge&logo=immich&logoColor=white) ![Pi-hole](https://img.shields.io/badge/Pi--hole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Nginx Proxy Manager](https://img.shields.io/badge/Nginx_Proxy_Manager-%23F15833.svg?style=for-the-badge&logo=nginxproxymanager&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-%23242424.svg?style=for-the-badge&logo=tailscale&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 
+> 50+ containers on a Raspberry Pi 5 — the full stack, and what I dropped along
+> the way: [Mi Homelab Setup](https://abdiel.dev/blog/homelab) (ES · EN).
+
 ## 📜 Certifications
 
 <a href="https://www.credly.com/badges/75708b07-8e9d-46fb-a604-2d8d7c2e1e05/public_url"><img src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"/></a>
