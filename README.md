@@ -22,9 +22,23 @@ Most of my side projects are tools I built because my own setup needed them:
 > 50+ containers on a Raspberry Pi 5 — the full stack, and what I dropped along
 > the way: [Mi Homelab Setup](https://abdiel.dev/blog/homelab) (ES · EN).
 
-## 📜 Certifications
+## 🏆 Accomplishments
+
+**🎤 Speaking**
+
+- Booster Session #8: Unit Testing & Integration Testing in JavaScript — Sep 2022
+- Conociendo NativeScript — [Mar 2020](https://youtu.be/7xoa_xHL28k)
+
+**🏅 Recognition**
+
+- Top Performer Award at Designli — Sep 2025, Apr 2025
+- Exceptional Player Award at Elaniin — Aug 2022, Oct 2021
+
+**📜 Certifications**
 
 <a href="https://www.credly.com/badges/75708b07-8e9d-46fb-a604-2d8d7c2e1e05/public_url"><img src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"/></a>
+
+- AWS Certified Developer – Associate — Oct 2021 (valid through Oct 2024)
 
 ## 💻 Tech Stack
 
