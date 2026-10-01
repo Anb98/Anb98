@@ -5,6 +5,13 @@
 - 🏠 I run a homelab: ~50 Docker containers 24/7 on a Raspberry Pi 5
 - 📝 I write at [abdiel.dev](https://abdiel.dev) and publish packages on [npm](https://www.npmjs.com/~anb98)
 
+## 📦 Libraries
+
+- [`@anb98/rn-toast`](https://github.com/Anb98/rn-toast) — headless-first toast library for React Native with a queue, custom transitions and slots, no native code and no runtime dependencies
+- [`@anb98/rn-tooltip`](https://github.com/Anb98/rn-tooltip) — tooltip for React Native with auto positioning, viewport clamping and an arrow that tracks the trigger, no native code and no runtime dependencies
+- [`@anb98/string-format`](https://github.com/Anb98/string-format) — zero-dependency TypeScript utility that formats strings against a template, like `+x (xxx) xxx-xxxx` for phone numbers
+- [`@anb98/react-hooks`](https://github.com/Anb98/custom-react-hooks) — data-fetching hooks for React (`useFetch`, `useLazyFetch`, `usePromise`, `useSearch`) with optional caching
+
 ## 🏠 Homelab & Hardware
 
 Most of my side projects are tools I built because my own setup needed them:
