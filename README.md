@@ -5,12 +5,21 @@
 - 🏠 I run a homelab: ~50 Docker containers 24/7 on a Raspberry Pi 5
 - 📝 I write at [abdiel.dev](https://abdiel.dev) and publish packages on [npm](https://www.npmjs.com/~anb98)
 
-## 📦 Libraries
+## 📦 Packages & Libraries
 
 - [`@anb98/rn-toast`](https://github.com/Anb98/rn-toast) — headless-first toast library for React Native with a queue, custom transitions and slots, no native code and no runtime dependencies
 - [`@anb98/rn-tooltip`](https://github.com/Anb98/rn-tooltip) — tooltip for React Native with auto positioning, viewport clamping and an arrow that tracks the trigger, no native code and no runtime dependencies
 - [`@anb98/string-format`](https://github.com/Anb98/string-format) — zero-dependency TypeScript utility that formats strings against a template, like `+x (xxx) xxx-xxxx` for phone numbers
 - [`@anb98/react-hooks`](https://github.com/Anb98/custom-react-hooks) — data-fetching hooks for React (`useFetch`, `useLazyFetch`, `usePromise`, `useSearch`) with optional caching
+
+## 🤖 AI Agent Tooling
+
+Tools I built to work with coding agents day to day:
+
+- [`@anb98/pi-auto-title`](https://github.com/Anb98/pi-auto-title) — Pi extension that names each session from its first prompt and sets it as the terminal title
+- [`claude-code-telegram-hook`](https://github.com/Anb98/claude-code-telegram-hook) — Telegram notifications when a long Claude Code turn finishes or waits for input
+- [`whatsapp-mcp`](https://github.com/Anb98/whatsapp-mcp) — MCP server that lets AI clients list WhatsApp contacts and send or schedule messages
+- [`esp32-ai-monitor`](https://github.com/Anb98/esp32-ai-monitor) — ESP32-S3 ambient display for Claude Code quota usage, with a Go backend
 
 ## 🏠 Homelab & Hardware
 
@@ -19,9 +28,10 @@ Most of my side projects are tools I built because my own setup needed them:
 - [`beszel-cli`](https://github.com/Anb98/beszel-cli) — CLI client for Beszel server monitoring
 - [`bookmarks`](https://github.com/Anb98/bookmarks) — self-hosted bookmark manager in a single 12 MB static binary, tag search included
 - [`speakr-gemini-proxy`](https://github.com/Anb98/speakr-gemini-proxy) — Gemini as Speakr's transcription backend, with speaker diarization, in a ~15 MB container
+- [`junkmail-worker`](https://github.com/Anb98/junkmail-worker) — disposable inboxes on my own domain: a Cloudflare Email Worker relays catch-all mail to a self-hosted Mailpit through a Cloudflare Tunnel
+- [`cooler-tuya-monitor`](https://github.com/Anb98/cooler-tuya-monitor) — fail-safe daemon that drives a fan on a Tuya smart plug from CPU and HDD temperatures
 - [`n8n-workflows`](https://github.com/Anb98/n8n-workflows) — the automation workflows I actually run
 - [`ephemeral-file-server`](https://github.com/Anb98/ephemeral-file-server) — self-hosted image sharing where each upload is deleted after its first view
-- [`esp32-ai-monitor`](https://github.com/Anb98/esp32-ai-monitor) — ESP32-S3 ambient display for Claude Code quota usage, with a Go backend
 - [`epd-wrapper`](https://github.com/Anb98/epd-wrapper) — TypeScript wrapper for a Python e-paper display driver
 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Jellyfin](https://img.shields.io/badge/Jellyfin-%2300A4DC.svg?style=for-the-badge&logo=jellyfin&logoColor=white) ![Immich](https://img.shields.io/badge/Immich-%234250AF.svg?style=for-the-badge&logo=immich&logoColor=white) ![Pi-hole](https://img.shields.io/badge/Pi--hole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Nginx Proxy Manager](https://img.shields.io/badge/Nginx_Proxy_Manager-%23F15833.svg?style=for-the-badge&logo=nginxproxymanager&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-%23242424.svg?style=for-the-badge&logo=tailscale&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
